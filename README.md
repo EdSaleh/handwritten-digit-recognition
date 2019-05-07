@@ -2,7 +2,9 @@
 
 Handwritten Digit Recognition application developed using:
 
+* Node.js
 * Tensorflow.js
+* Deep Learning
 * Mnist dataset
 * React
 * Redux Redux-Saga
