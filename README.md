@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition
 
-Handwritten Digit Recognition application developed using:
+Live user handwritten Digit Recognition application developed using:
 
 * Node.js
 * Tensorflow.js
